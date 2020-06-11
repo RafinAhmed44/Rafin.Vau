@@ -137,12 +137,12 @@ fi
 
 banner() {
 
-╭━━━┳━━━┳━━━┳━━┳━╮╱╭╮
-┃╭━╮┃╭━╮┃╭━━┻┫┣┫┃╰╮┃┃
-┃╰━╯┃┃╱┃┃╰━━╮┃┃┃╭╮╰╯┃
-┃╭╮╭┫╰━╯┃╭━━╯┃┃┃┃╰╮┃┃
-┃┃┃╰┫╭━╮┃┃╱╱╭┫┣┫┃╱┃┃┃
-╰╯╰━┻╯╱╰┻╯╱╱╰━━┻╯╱╰━╯
+printf "\e[1;77m╭━━━┳━━━┳━━━┳━━┳━╮╱╭╮printf "\e[1;77m
+printf "\e[1;77m┃╭━╮┃╭━╮┃╭━━┻┫┣┫┃╰╮┃┃printf "\e[1;77m
+printf "\e[1;77m┃╰━╯┃┃╱┃┃╰━━╮┃┃┃╭╮╰╯┃printf "\e[1;77m
+printf "\e[1;77m┃╭╮╭┫╰━╯┃╭━━╯┃┃┃┃╰╮┃┃printf "\e[1;77m
+printf "\e[1;77m┃┃┃╰┫╭━╮┃┃╱╱╭┫┣┫┃╱┃┃┃printf "\e[1;77m
+printf "\e[1;77m╰╯╰━┻╯╱╰┻╯╱╱╰━━┻╯╱╰━╯printf "\e[1;77m
 printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by:  @linux_choice \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
