@@ -1,4 +1,4 @@
-# ShellPhish v1.8
+# Shymon Hasan v1.8
 ## Author: github.com/thelinuxchoice
 ## Twitter: twitter.com/linux_choice
 ### Don't copy this code without giving me the credits :) 
